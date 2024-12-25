@@ -82,7 +82,7 @@ nav h2{
     width: 300px;
     /* border: 2px solid black; */
     padding: 20px;
-    filter: blur(5px);
+/*     filter: blur(5px); */
     gap: 10px;
     transition: scale .3s;
     display: flex;
@@ -93,7 +93,7 @@ nav h2{
 
 #item_container:hover{
     scale: 1.05;
-    filter: blur(0px);
+/*     filter: blur(0px); */
 }
 
 #food_img{
